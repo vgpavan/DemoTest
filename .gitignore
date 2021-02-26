@@ -1,0 +1,4 @@
+Excluding few files from tracking
+* .class
+* .out
+
